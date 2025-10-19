@@ -12,18 +12,14 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 ## 🧾 Program
 Add code here
 ```
-# Define the tuple
-x = ('a', 'n', 'g', 'e', 'l', 8, 9, 3)
-
-# Check if 'n' exists in the tuple
-print('n' in x)
-
-# Check if 8 exists in the tuple
-print(8 in x)
+tuplex = ("S", 89, "R", "e", "s", "o", "u", "r", "c", "e","D")
+print('r'in tuplex)
+print('5'in tuplex)
 ```
 
 ## Output
-<img width="284" height="74" alt="image" src="https://github.com/user-attachments/assets/321ba633-247e-44e1-8a43-064bc2813164" />
+![WhatsApp Image 2025-10-19 at 19 49 28_ebaa82f0](https://github.com/user-attachments/assets/dfa9e34b-1e81-47e2-9cbd-042888edf4d0)
+
 
 
 ## Result
