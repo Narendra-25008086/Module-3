@@ -17,25 +17,15 @@ To write a Python program that accepts a string and removes the character at a s
 ## 💻 Program
 Add Code Here
 ```
-# Function to remove character at index n
-def remove(string, n):
-    a = ""  # Initialize an empty string
-    for i in range(len(string)):
-        if i != n:  # Skip the character at index n
-            a = a + string[i]
-    return a
-
-# Get input string from user
-string = input("Enter a string: ")
-
-# Get index to remove
-n = int(input("Enter the index to remove: "))
-
-# Display result
-print("Modified string:", remove(string, n))
+items=[1,6,4,7,8,9,5,3]
+sum_numbers=0
+for x in items:
+       sum_numbers+=x
+print(sum_numbers)
 ```
 ## Output
-<img width="799" height="103" alt="image" src="https://github.com/user-attachments/assets/3e436ef5-0879-45bc-9020-d1038a7cc04a" />
+![WhatsApp Image 2025-10-19 at 19 44 25_db7b8fe9](https://github.com/user-attachments/assets/fcf58990-a2d1-4bf2-826e-4690b4e1165c)
+
 
 
 ## Result
