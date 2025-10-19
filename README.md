@@ -1,3 +1,4 @@
+## DATE: 15.10.2025
 # List Operations in Python: Sum of List Items
 
 ## 🎯 Aim
